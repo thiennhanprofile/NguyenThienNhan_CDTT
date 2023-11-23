@@ -6,5 +6,5 @@
 ## ĐỀ TÀI
 - Tên đề tài :
 - Công nghệ Laravel-ReactJS
-  ## KẾ HOẠCH THỰC HIỆN
+## KẾ HOẠCH THỰC HIỆN
   --
