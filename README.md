@@ -4,7 +4,7 @@
 - Mã sinh viên : 2121110116
 - Lớp : CCQ2111D
 ## ĐỀ TÀI
-- Tên đề tài : Bán rượu
+- Tên đề tài : Xây dựng website Bán rượu
 - Công nghệ Laravel-ReactJS
 ## KẾ HOẠCH THỰC HIỆN
   --
