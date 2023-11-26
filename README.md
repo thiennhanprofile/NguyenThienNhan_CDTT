@@ -5,6 +5,6 @@
 - Lớp : CCQ2111D
 ## ĐỀ TÀI
 - Tên đề tài : Xây dựng website Bán rượu
-- Công nghệ Laravel-ReactJS
+- Công nghệ Laravel-Boostrap
 ## KẾ HOẠCH THỰC HIỆN
   --
