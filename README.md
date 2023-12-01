@@ -7,4 +7,5 @@
 - Tên đề tài : Xây dựng website Bán rượu
 - Công nghệ Laravel-ReactJS
 ## KẾ HOẠCH THỰC HIỆN
-  --
+
+### Tuần 1 (23/11/2023 đến 30/11 Push ): Tổ chức Project + Thiết kế CSDL
