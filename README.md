@@ -9,3 +9,4 @@
 ## KẾ HOẠCH THỰC HIỆN
 
 ### Tuần 1 (23/11/2023 đến 30/11 Push ): Tổ chức Project + Thiết kế CSDL
+### Tuần 2
